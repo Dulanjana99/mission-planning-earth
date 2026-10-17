@@ -12,3 +12,7 @@ Mostly.
 
 The coffee machine (`coffeed`) refuses to brew decaf. Nobody is complaining.
 
+## Day 3
+
+The debugging duck has been found in a desk drawer. Dr. Honk denies everything.
+
