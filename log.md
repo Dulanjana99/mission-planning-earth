@@ -16,3 +16,7 @@ The coffee machine (`coffeed`) refuses to brew decaf. Nobody is complaining.
 
 The debugging duck has been found in a desk drawer. Dr. Honk denies everything.
 
+## Day 4
+
+Mission control reminds all crew members that it does not accept pushes.
+Make your own copies of this log.
