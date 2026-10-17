@@ -8,3 +8,7 @@ Crew members: add new entries at the bottom, newest last.
 Launch successful. The airlock was closed before the engines were ignited.
 Mostly.
 
+## Day 2
+
+The coffee machine (`coffeed`) refuses to brew decaf. Nobody is complaining.
+
